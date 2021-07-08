@@ -1,0 +1,116 @@
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.travel_mainDiv {
+    float: left;
+    width: 33.33% padding: 5px;
+    border: 1px solid #c7c7c7;
+}
+
+
+    {
+    width: 100%;
+    height: 300px;
+}
+
+.travel_mainDiv hr {
+    width: 222%;
+}
+
+.travel_mainDiv h5,
+.travel_mainDiv p {
+    margin-left: 20px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#myCarousel {
+    background-color: skyblue;
+    text-align: center;
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: black;
+    font-size: 15px;
+    text-align: center;
+}
+
+.env_li h4{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.env_li img{
+    border-radius: 25px;
+}
+
+.env_li p{
+    margin-top: 10px;
+}
+
+#marqueeStyle{
+    background-color: orangered;
+    color: white;
+}
+
+#school_alumni3{
+    text-align: center;
+}
+
+#school_alumni1{
+    text-align: center;
+}
+
+#school_alumni2{
+    text-align: center;
+}
+
+.modal-body
+{
+    text-align: center
+}
+
+#achievementsID{
+ padding-bottom: 10px;
+ border border-radius: 50%;
+ font-size: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
